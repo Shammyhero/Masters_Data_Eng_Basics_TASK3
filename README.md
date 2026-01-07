@@ -58,4 +58,10 @@ The `word_count.py` script utilizes Apache Spark to efficiently count words from
 
 -   The script takes an `input_path` (defaulting to `data/test.csv`) and an optional `top_n` parameter (defaulting to 10) for the number of top words to display.
 -   It performs text cleaning (lowercase, punctuation removal), stop word filtering, and then calculates word frequencies.
--   The output will be a list of the most frequent words and their counts.
+-   The output will be a list of the most frequent words and their counts:
+
+
+
+<img width="228" height="241" alt="Screenshot 2026-01-07 at 19 54 04" src="https://github.com/user-attachments/assets/9e42b074-2789-4e89-938e-72299e67f437" />
+
+
